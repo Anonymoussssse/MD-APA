@@ -1,6 +1,6 @@
 # MD-APA
 
-This repository contains the code for the paper "Matching distribution adversarial patch attack for better-attacking generalization".
+This repository contains the code for the paper "Matching distribution adversarial patch attack for better-attacking generalization" submitted to 37th Conference on Neural Information Processing Systems (NeurIPS 2023).
 
 <p>
 <img src="schema.png" height="300" width="896" >
