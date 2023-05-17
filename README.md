@@ -2,6 +2,10 @@
 
 This repository contains the code for the paper "Matching distribution adversarial patch attack for better-attacking generalization".
 
+<p>
+<img src="schema.jpg" height="300" width="896" >
+</p>
+
 ### Environment Installations:
 First, you may prefer to create a virtual environment by running for example with conda: 
 
