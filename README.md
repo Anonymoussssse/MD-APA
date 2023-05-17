@@ -6,7 +6,7 @@ This repository contains the code for the paper "Matching distribution adversari
 <img src="schema.png" height="300" width="896" >
 </p>
 
-### Environment Installations:
+### Environment Installation:
 First, you may prefer to create a virtual environment by running for example with conda: 
 
 `conda create -n myenv python==3.9`
