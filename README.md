@@ -21,6 +21,10 @@ Now you can install the requirments packages by running:
 
 ### Scripts
 
+First you have to download the quantiles here:
+
+https://zenodo.org/record/7945025
+
 The following script trains a patch for a chosen category and for a chosen source model (Swin T/S/B). 
 
 ```python quantiles_ot.py ```  
