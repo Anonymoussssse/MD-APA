@@ -1,0 +1,10 @@
+pip==21.3.1
+regex
+json5
+python-time
+torch>=2.0.1
+torchvision>=0.13.1
+matplotlib>=3.6.2
+numpy>=1.18.1
+timm >=0.4.12
+
