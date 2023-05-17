@@ -1,4 +1,4 @@
-# MDAPA
+# MD-APA
 
 This repository contains the code for the paper "Matching distribution adversarial patch attack for better-attacking generalization".
 
